@@ -1,38 +1,34 @@
-# Aaiena Node.js Assesment with Docker Compose
+# Weboconnect Node.js Assesment 
 
-This project demonstrates setting up a Node.js application with MySQL and phpMyAdmin using Docker Compose.
+This project demonstrates setting up a Node.js application with MySQL and phpMyAdmin 
 
 ## Prerequisites
 
 Make sure you have the following installed on your system:
-
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
 - [Postman]
 - [VSCode]
+- [NodeJs]
+- [XAMPP]
 
 ## Setup
 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/mohdusman63/aaiena_assement.git
-cd aaiena_assement
+git https://github.com/mohdusman63/weboconnect_assesement
+cd weboconnect_assesement
 ```
 
-### 2. Run Docker Compose
+### 2. Intsall Dendency
 
-To start the services, run:
-
-docker-compose up
+npm Install
 
 
 ### 3 Access the Services
 
-Node.js Application: http://localhost:3000
-phpMyAdmin: http://localhost:8080 (username admin password Lbim@2201)
+Node.js Application: http://localhost:5000
 
 
 ### 4 Video Link of Assesment
 
-https://we.tl/t-1o6Se70SlA
+https://www.flexclip.com/share/6460820222b109586254b26b18c251309f1bdff.html
